@@ -1,6 +1,5 @@
 # Udacity RSS Feed Reader Testing
 
-
 ## Instructions 
 
 1. Download repo or zip file.
